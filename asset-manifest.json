@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-MUI-Form/static/css/main.e6c13ad2.css",
+    "main.js": "/React-MUI-Form/static/js/main.68f2aca4.js",
+    "index.html": "/React-MUI-Form/index.html",
+    "main.e6c13ad2.css.map": "/React-MUI-Form/static/css/main.e6c13ad2.css.map",
+    "main.68f2aca4.js.map": "/React-MUI-Form/static/js/main.68f2aca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.68f2aca4.js"
+  ]
+}
